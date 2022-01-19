@@ -175,7 +175,10 @@
 }
 
 /* importing fonts using font-face */
-
+@font-face {
+    font-family: "Poppins";
+    src: url(resources/fonts/Poppins/Poppins-Regular.ttf) format('truetype');
+}
 /* font container panels */
 .font1 {
 
